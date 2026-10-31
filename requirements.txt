@@ -1,0 +1,5 @@
+# Core libraries used by Xray.ipynb
+tensorflow>=2.12,<2.19
+numpy
+matplotlib
+opencv-python
